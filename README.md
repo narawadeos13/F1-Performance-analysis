@@ -27,3 +27,8 @@ Consistent constructor performance across multiple races plays a critical role i
 Driver consistency analysis
 Time-series based performance comparison
 Extension to vehicle telemetry-style datasets
+
+## Visual Insights
+
+### Team Points Distribution
+![Team Points Analysis](images/newplot.png)
